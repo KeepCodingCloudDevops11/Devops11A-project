@@ -15,7 +15,7 @@ Proyecto final del grupo Devops11A para el bootcamp **Devops & Cloud Computing -
   - [CircleCI pipeline en dev](#circleci-pipeline-en-dev)
   - [PR en main](#pr-en-main)
   - [Github Actions pipeline en main](#github-actions-pipeline-en-main)
-- [Despliegue de la aplicación](#despliegue-de-la-aplicación)
+- [Despliegue de la aplicación en local](#despliegue-de-la-aplicación-en-local)
   - [Clonación del proyecto](#clonación-del-proyecto)
   - [Despliegue automático](#despliegue-automático)
   - [Acceso a la aplicación](#acceso-a-la-aplicación)
@@ -140,7 +140,7 @@ Al realizar la acción de mergeo en main, se activará un pipeline de *Github Ac
 - Envía una notificación al canal de Slack con el Changelog del despliegue.
 - Termina el pipeline de construcción.
 
-## DESPLIEGUE DE LA APLICACIÓN
+## DESPLIEGUE DE LA APLICACIÓN EN LOCAL
 
 En esta sección se explican los pasos para desplegar la aplicación *Flask* en un cluster de *Kubernetes* usando *Kind* y *ArgoCD*, así como los servicios *ElasticSearch*, *Kibana*, *Prometheus* y *Grafana*.
 
