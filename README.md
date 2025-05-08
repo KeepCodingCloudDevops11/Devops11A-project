@@ -54,7 +54,7 @@ La práctica está compuesta de los siguientes repositorios y proyectos:
 
 ## VIDEO EXPLICATIVO
 
-Aquí se puede encontrar el video explicativo de la práctica -> <https://github.com/juarru/devops11a-project-app>
+Aquí se puede encontrar el video explicativo de la práctica -> <https://youtu.be/hXiRwv17qhg>
 
 ## DESARROLLO Y CONSTRUCCIÓN DE LA IMAGEN DE LA APLICACIÓN
 
