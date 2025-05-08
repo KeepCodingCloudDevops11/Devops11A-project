@@ -54,7 +54,7 @@ La práctica está compuesta de los siguientes repositorios y proyectos:
 
 ## VIDEO EXPLICATIVO
 
-Aquí se puede encontrar el video explicativo de la práctica -> <https://www.loom.com/share/226325609bde4fbc825b7f40e0fb5610?sid=e9ab2c61-aa48-4b8f-b504-842a22025cd8>
+Aquí se puede encontrar el video explicativo de la práctica -> <https://github.com/juarru/devops11a-project-app>
 
 ## DESARROLLO Y CONSTRUCCIÓN DE LA IMAGEN DE LA APLICACIÓN
 
